@@ -7,3 +7,5 @@
 2. Upon obtaining the data of the surrounding environment, the information is stored on the microcontroller’s local memory which is communicated to the user’s computer. (Constructed using assembly code and C)
 
 3. After successful communication, the computer will then take the data and process it into a graphic for the user to see. (Constructed using Python)
+
+For information about the Assembly, C and Python Code please contact me personally. Thanks!
